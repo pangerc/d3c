@@ -7,7 +7,7 @@
       >
         <div class="flex lg:flex-1">
           <a href="#" class="-m-1.5 p-1.5">
-            <span class="sr-only">DDC</span>
+            <span class="sr-only">DC3</span>
             <img class="h-8 w-auto" src="/img/d3c.svg" alt="" />
           </a>
         </div>
@@ -48,7 +48,7 @@
         >
           <div class="flex items-center justify-between">
             <a href="#" class="-m-1.5 p-1.5">
-              <span class="sr-only">DDC</span>
+              <span class="sr-only">DC3</span>
               <img class="h-8 w-auto" src="/img/d3c.svg" alt="" />
             </a>
             <button
@@ -90,7 +90,7 @@
           <h1
             class="text-4xl font-bold font-gellix tracking-tight text-white sm:text-6xl"
           >
-            D3C Crypto Fund
+            D3C Web3 Fund
           </h1>
           <p class="mt-6 text-lg leading-8 text-white font-gellix">
             Institutionalizing a thesis-driven family office Web3 fund
