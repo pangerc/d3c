@@ -85,15 +85,15 @@
     </header>
 
     <div class="relative isolate px-6 pt-14 lg:px-8">
-      <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
-        <div class="text-center">
+      <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56 flex flex-col justify-center items-center">
+        <div class="text-center md:w-3/4 ">
           <h1
             class="text-4xl font-bold font-gellix tracking-tight text-white sm:text-6xl"
           >
-            D3C Web3 Fund
+            D3C Capital
           </h1>
-          <p class="mt-6 text-lg leading-8 text-white font-gellix">
-            Institutionalizing a thesis-driven family office Web3 fund
+          <p class="mt-6 text-lg leading-8 text-white font-gellix ">
+            Investing in emerging category leaders in the infrastructure and application layers of Web3.
           </p>
           <!-- <div class="mt-10 flex items-center justify-center gap-x-6">
             <a
