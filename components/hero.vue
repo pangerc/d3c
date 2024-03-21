@@ -97,7 +97,7 @@
             DC3 Capital
           </h1>
           <p class="mt-6 text-lg leading-8 text-white font-gellix">
-            Investing in emerging category leaders
+            Investing in Emerging Category Leaders since the early 2010s
           </p>
           <!-- <div class="mt-10 flex items-center justify-center gap-x-6">
             <a
