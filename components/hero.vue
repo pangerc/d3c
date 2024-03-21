@@ -1,5 +1,7 @@
 <template>
-  <div class="herovisual w-full bg-black">
+  <div
+    class="herovisual w-full bg-black min-h-screen flex justify-center items-center"
+  >
     <header class="absolute inset-x-0 top-0 z-50">
       <nav
         class="flex items-center justify-between p-6 lg:px-8"
@@ -85,15 +87,17 @@
     </header>
 
     <div class="relative isolate px-6 pt-14 lg:px-8">
-      <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56 flex flex-col justify-center items-center">
-        <div class="text-center md:w-3/4 ">
+      <div
+        class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56 flex flex-col justify-center items-center"
+      >
+        <div class="text-center md:w-3/4">
           <h1
             class="text-4xl font-bold font-gellix tracking-tight text-white sm:text-6xl"
           >
             D3C Capital
           </h1>
-          <p class="mt-6 text-lg leading-8 text-white font-gellix ">
-            Investing in emerging category leaders in the infrastructure and application layers of Web3.
+          <p class="mt-6 text-lg leading-8 text-white font-gellix">
+            Investing in emerging category leaders
           </p>
           <!-- <div class="mt-10 flex items-center justify-center gap-x-6">
             <a

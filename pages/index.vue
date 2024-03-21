@@ -1,10 +1,8 @@
 <template>
   <div>
     <Hero />
-    <Theses />
-    <Pioneers/>
     <!-- <Trends /> -->
-    
+
     <footer class="bg-black py-12 text-center text-gray-500 text-sm px-12">
       &copy; 2024 Deep Conviction Capital 3, 335 Bryant Street, Palo Alto CA
     </footer>
@@ -13,7 +11,4 @@
 
 <script setup>
 import Hero from "@/components/hero.vue";
-import Theses from "@/components/theses.vue";
-import Trends from "@/components/trends.vue";
-import Pioneers from "@/components/pioneers.vue";
 </script>
