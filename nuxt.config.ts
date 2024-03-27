@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
     head: {
-      title: "DC3",
+      title: "DC3 - Deep Conviction 3",
       link: [
         {
           rel: "apple-touch-icon",

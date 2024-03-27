@@ -94,7 +94,7 @@
           <h1
             class="text-4xl font-bold font-gellix tracking-tight text-white sm:text-6xl"
           >
-            DC3 Capital
+            DC3
           </h1>
           <p class="mt-6 text-lg leading-8 text-white font-gellix">
             Investing in Emerging Category Leaders since the early 2010s
