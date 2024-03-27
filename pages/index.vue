@@ -4,7 +4,7 @@
     <!-- <Trends /> -->
 
     <footer class="bg-black py-12 text-center text-gray-500 text-sm px-12">
-      &copy; 2024 Deep Conviction Capital 3
+      &copy; 2024 Deep Conviction 3
     </footer>
   </div>
 </template>
